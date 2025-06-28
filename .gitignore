@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+.cache/
+frontend/.cache/
+
+# Build
+dist/
+build/
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
