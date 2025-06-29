@@ -10,9 +10,12 @@ This folder includes everything you need to understand and set up the **MongoDB*
 
 ## 📁 **Folder Contents**
 
-➡️ `mongodb_schema.json` — Defines all collections and fields used in MongoDB
+➡️ `mongodb_schema.json` — Defines all collections and fields used in MongoDB 
+
 ➡️ `db-config.js` — Mongoose configuration and connection setup
+
 ➡️ `sample_data.json` — Optional: Sample data for testing
+
 ➡️ `ERD.png` — Visual **Entity Relationship Diagram** of the database structure
 
 ---
@@ -26,7 +29,9 @@ This folder includes everything you need to understand and set up the **MongoDB*
 ## 🚀 **Setup Instructions**
 
 1️⃣ **Install MongoDB** locally ***or*** create a free cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-2️⃣ **Connect your app** using the credentials in `db-config.js`
+ 
+ 2️⃣ **Connect your app** using the credentials in `db-config.js`
+
 3️⃣ **Populate test data** (optional):
 
 ```bash
