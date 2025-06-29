@@ -30,6 +30,7 @@ Take a closer look at how **ResolveNow: Online Complaint Registration and Manage
 🔸 📊 Monitor platform activity
 🔸 👥 Manage users & agents
 
+
 #### 🌟 **Planned Features**
 
 🌐 AI-based complaint routing
