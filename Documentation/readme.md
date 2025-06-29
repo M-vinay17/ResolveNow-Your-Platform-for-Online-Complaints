@@ -49,8 +49,7 @@ Take a closer look at how **ResolveNow: Online Complaint Registration and Manage
 
 ---
 
-> 📝 *Want to understand the full workflow from user sign-up to resolution? This video demo is your complete guide!*
-> 🎯 *Perfect for developers, reviewers, and evaluators.*
+
 
 
 
