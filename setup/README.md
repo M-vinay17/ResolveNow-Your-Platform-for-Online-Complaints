@@ -33,7 +33,7 @@ cp .env.example .env
 🧠 Backend:
     🔸🟢 Node.js – JavaScript runtime
 
-      🔸🔧 Express.js – Backend API framework
+     🔸🔧 Express.js – Backend API framework
 
 🗄️ Database:
      🔸🍃 MongoDB – NoSQL database for scalable data storage
