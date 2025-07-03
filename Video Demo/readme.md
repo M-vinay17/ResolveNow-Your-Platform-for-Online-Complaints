@@ -16,5 +16,5 @@ Explore the working demo of **ResolveNow – Online Complaint Registration and M
 * 🧠 Intelligent Routing (Planned)
 * 💬 Real-time Communication (Upcoming with Socket.io & WebRTC)
 
-> 🧪 *Perfect for understanding the full workflow — from user interaction to admin resolution flow.*
+
 
