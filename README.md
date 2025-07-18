@@ -184,19 +184,6 @@ ResolveNow/
 ✔️ Admin dashboard for complaint routing
 ✔️ Clean UI with animations and responsive design
 
-## 🤝 **Contributors**
-
-### 👨‍💻 M Vinaykumar
-
-🔸 **GitHub:** [@M-vinay17](https://github.com/M-vinay17)
-🔸 **Email:** `mvinaykumar1786@gmail.com`
-🔸 **LinkedIn:** [🔗 vinaykumar-matam](https://www.linkedin.com/in/vinaykumar-matam-66910029b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-### 👩‍💻 Sai Harini
-
-🔸 **GitHub:** [@saiharini2004](https://github.com/saiharini2004)
 
 
 
